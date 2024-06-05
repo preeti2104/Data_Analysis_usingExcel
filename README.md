@@ -1,0 +1,1 @@
+I recently created an interactive Excel dashboard for an e-Commerce platform to analyze store performance. I cleaned the data, used pivot tables and slicers, and applied conditional formatting. The dashboard highlights key metrics like sales performance and customer behavior, providing real-time insights and streamlining reporting processes.
